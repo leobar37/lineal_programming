@@ -1,0 +1,6 @@
+{
+  "jupyter.jupyterServerType": "local",
+  "pasteImage.path": "${currentFileDir}/assets/",
+  "pasteImage.basePath": "${currentFileDir}/",
+  "pasteImage.forceUnixStyleSeparator": true
+}
